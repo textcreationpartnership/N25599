@@ -111,8 +111,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:034000_0000_0FF9FB7FF44370B8"/>
-            <pb facs="tcp:034000_0001_0FF9CD89124F31E0" rendition="simple:additions"/>
+            <pb facs="unknown:034000_0000_0FF9FB7FF44370B8"/>
+            <pb facs="unknown:034000_0001_0FF9CD89124F31E0"
+                rendition="simple:additions"/>
             <p>THE CASTLE SPECTRE: A <hi>DRAMA.</hi> IN <hi>Five Acts.</hi>
             </p>
             <p>BY M. G. LEWIS, ESQ. M. P. AUTHOR OF "THE MONK," &amp;c.</p>
@@ -121,7 +122,7 @@
             <p>PRINTED AT <hi>BOSTON.</hi> Sold at the BOOKSTORE, No. 56, CORNHILL.</p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:034000_0002_0FF9FB88F95F7060"/>
+            <pb facs="unknown:034000_0002_0FF9FB88F95F7060"/>
             <head>DRAMATIS PERSONAE.</head>
             <list>
                <head>MEN.</head>
@@ -161,7 +162,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:034000_0003_0FF9FDA30296BC28"/>
+            <pb facs="unknown:034000_0003_0FF9FDA30296BC28"/>
             <head>THE CASTLE SPECTRE.</head>
             <div n="1" type="act">
                <head>ACT I.</head>
@@ -207,7 +208,7 @@
                      <p>Whoſe then?</p>
                   </sp>
                   <sp>
-                     <pb n="4" facs="tcp:034000_0004_0FF9FB8D740F0E90"/>
+                     <pb n="4" facs="unknown:034000_0004_0FF9FB8D740F0E90"/>
                      <speaker>Motl.</speaker>
                      <p>The cook's, undoubtedly; for if he hadn't locked the pantry-door, 'tis an hundred to one I ſhouldn't have taken the trouble to break it open.</p>
                   </sp>
@@ -248,7 +249,7 @@
                      <p>It ſhews me that you are a reprobate, and that my advice is thrown away upon you: In future, I ſhall keep thoſe counſels to myſelf, which I offered you from motives of pure Chriſtian charity.</p>
                   </sp>
                   <sp>
-                     <pb n="5" facs="tcp:034000_0005_0FF9FDA7783056A0"/>
+                     <pb n="5" facs="unknown:034000_0005_0FF9FDA7783056A0"/>
                      <speaker>Motl.</speaker>
                      <p>Charity, my good Father, ſhould always begin at home: Now, inſtead of giving yourſelf ſo much trouble to mend me, what if you thought a little of correcting yourſelf?</p>
                   </sp>
@@ -317,7 +318,7 @@
                   <sp>
                      <speaker>Motl.</speaker>
                      <p>Really? Then you have one good quality at leaſt,
-<pb n="6" facs="tcp:034000_0006_0FF9FB9B8DD8BD20"/>and I cannot but admire ſuch a total want of ſelf-love! <stage>[A horn ſounds.]</stage> But hark! 'tis the dinner horn. Away to ta<g ref="char:EOLhyphen"/>ble, Father—Depend upon't, the ſervants will rather eat part of their dinner unbleſſed, than ſtay till your ſtomach comes, like Jonas's whale, and ſwallows up the whole.</p>
+<pb n="6" facs="unknown:034000_0006_0FF9FB9B8DD8BD20"/>and I cannot but admire ſuch a total want of ſelf-love! <stage>[A horn ſounds.]</stage> But hark! 'tis the dinner horn. Away to ta<g ref="char:EOLhyphen"/>ble, Father—Depend upon't, the ſervants will rather eat part of their dinner unbleſſed, than ſtay till your ſtomach comes, like Jonas's whale, and ſwallows up the whole.</p>
                   </sp>
                   <sp>
                      <speaker>F. Phil.</speaker>
@@ -365,7 +366,7 @@
                   <sp>
                      <speaker>Motl.</speaker>
                      <p>It does with ardes unabated; for I'm not ſo un<g ref="char:EOLhyphen"/>juſt as to attribute to you my expulſion from Alnwic Caſtle. In fact, I deſerved it; for I cannot deny but that at twenty I was as good-for-nothing a knave as ever exiſted; conſe<g ref="char:EOLhyphen"/>quently old Earl Percy diſmiſſed me from his ſervice, but I know that it was ſorely againſt your inclination. You were
-<pb n="7" facs="tcp:034000_0007_0FF9FDAC05006158"/>then ſcarce fourteen, and I had been your companion and play-fellow from your childhood. I remember well your grief at parting with me, and that you ſlipped into my hand the purſe which contained the whole of your little treaſure. That act of kindneſs ſtruck to my heart: I ſwore at the moment to love you through life, and if ever I forget my oath, damn me!</p>
+<pb n="7" facs="unknown:034000_0007_0FF9FDAC05006158"/>then ſcarce fourteen, and I had been your companion and play-fellow from your childhood. I remember well your grief at parting with me, and that you ſlipped into my hand the purſe which contained the whole of your little treaſure. That act of kindneſs ſtruck to my heart: I ſwore at the moment to love you through life, and if ever I forget my oath, damn me!</p>
                   </sp>
                   <sp>
                      <speaker>Percy.</speaker>
@@ -419,7 +420,7 @@
                      <p>I hope I had better reaſons for beſtowing it on her. No, Gilbert; I loved her for a perſon beautiful with<g ref="char:EOLhyphen"/>out art, and graceful without affectation; for an heart tender without weakneſs, and noble without pride. I ſaw her at once beloved and reverenced by her village companions: they looked on her as a being of a ſuperior order; and I felt, that ſhe who gave ſuch dignity to the cottage maid, muſt needs add new luſtre to the coronet of the Percies.</p>
                   </sp>
                   <sp>
-                     <pb n="8" facs="tcp:034000_0008_0FF9FBA9721388C8"/>
+                     <pb n="8" facs="unknown:034000_0008_0FF9FBA9721388C8"/>
                      <speaker>Motl.</speaker>
                      <p>From which I am to underſtand that you mean to marry this ruſtic.</p>
                   </sp>
@@ -486,7 +487,7 @@
                      <p>The very ſame! Speak, my good fellow, do you know her?</p>
                   </sp>
                   <sp>
-                     <pb n="9" facs="tcp:034000_0009_0FF9FDB558C17A88"/>
+                     <pb n="9" facs="unknown:034000_0009_0FF9FDB558C17A88"/>
                      <speaker>Motl.</speaker>
                      <p>Not by your deſcription; for here ſhe's under<g ref="char:EOLhyphen"/>ſtood to be the daughter of Sir Malcolm Mowbray, my maſ<g ref="char:EOLhyphen"/>ter's deceaſed friend. And what is your preſent intention?</p>
                   </sp>
@@ -537,7 +538,7 @@
                   <sp>
                      <speaker>Motl.</speaker>
                      <p>'Tis no eaſy matter, I promiſe you; but I'll do
-<pb n="10" facs="tcp:034000_0010_0FF9FBB1A5F32238"/>my beſt. In the meanwhile, wait for me in yonder fiſhing<g ref="char:EOLhyphen"/>hut; its owner's name is Edric: tell him that I ſent you, and he will give you a retreat.</p>
+<pb n="10" facs="unknown:034000_0010_0FF9FBB1A5F32238"/>my beſt. In the meanwhile, wait for me in yonder fiſhing<g ref="char:EOLhyphen"/>hut; its owner's name is Edric: tell him that I ſent you, and he will give you a retreat.</p>
                   </sp>
                   <sp>
                      <speaker>Percy.</speaker>
@@ -592,7 +593,7 @@
                   <sp>
                      <speaker>Haſſ.</speaker>
                      <p>If Percy gains her, every thing! Supported by ſuch wealth and power, dangerous would be her claim to theſe domains ſhould her birth be diſcovered. Of this our Lord is aware; nor did he ſooner hear that Northumberland loved her, than he haſtened to remove her from Allan's
-<pb n="11" facs="tcp:034000_0011_0FF9CD96A93D1548"/>care. At firſt I doubt his purpoſe was a foul one: her reſemblance to her mother induced him to change it. He now is reſolved to make her his bride, and reſtore to her thoſe rights of which himſelf deprived her.</p>
+<pb n="11" facs="unknown:034000_0011_0FF9CD96A93D1548"/>care. At firſt I doubt his purpoſe was a foul one: her reſemblance to her mother induced him to change it. He now is reſolved to make her his bride, and reſtore to her thoſe rights of which himſelf deprived her.</p>
                   </sp>
                   <sp>
                      <speaker>Saib.</speaker>
@@ -625,7 +626,7 @@
                      <p>Ill-ſtarred Haſſan! your wrongs have indeed been great.</p>
                   </sp>
                   <sp>
-                     <pb n="12" facs="tcp:034000_0012_0FF9FBBDFB4E1D18"/>
+                     <pb n="12" facs="unknown:034000_0012_0FF9FBBDFB4E1D18"/>
                      <speaker>Haſſ.</speaker>
                      <p>To remember them, un-mans me—Farewel! I muſt to Kenric. Hold!—Look, where he comes from Oſmond's chamber!</p>
                   </sp>
@@ -680,7 +681,7 @@
                      <p>Will you ſo, Kenric? Be ſpeedy then, or you will be too late.</p>
                   </sp>
                   <sp>
-                     <pb n="13" facs="tcp:034000_0013_0FF9FDBCE4943260"/>
+                     <pb n="13" facs="unknown:034000_0013_0FF9FDBCE4943260"/>
                      <speaker>Kenr.</speaker>
                      <p>Too late! And wherefore?</p>
                   </sp>
@@ -757,7 +758,7 @@
                   <sp>
                      <speaker>Alice.</speaker>
                      <p>How can I tell? Why, I know very well that men are made; but if you deſired me to make a man, I vow and proteſt I ſhouldn't know how to ſet about it. I can on<g ref="char:EOLunhyphen"/>ly
-<pb n="14" facs="tcp:034000_0014_0FF9FBCB738A9868"/>ſay, that laſt night I heard the ghoſt of my murdered Lady—</p>
+<pb n="14" facs="unknown:034000_0014_0FF9FBCB738A9868"/>ſay, that laſt night I heard the ghoſt of my murdered Lady—</p>
                   </sp>
                   <sp>
                      <speaker>F. Phil.</speaker>
@@ -819,7 +820,7 @@
                   <sp>
                      <speaker>Ang.</speaker>
                      <p>Perhaps at this moment he thinks upon me! Per<g ref="char:EOLhyphen"/>haps
-<pb n="15" facs="tcp:034000_0015_0FF9FAD22D6A7AE8"/>he wanders on thoſe mountains where we ſo oft have ſtrayed, reclines on that bank where we ſo oft have ſat, or liſtens ſadly to the ſtarling which he taught to repeat my name. Perhaps then he ſighs; and murmurs to himſelf: <q>The flowers, the rivulets, the birds, every object reminds me of my well-beloved; but what ſhall remind her of Edwy?</q>—Oh! that will my heart, Edwy; I need no other remembrancer!</p>
+<pb n="15" facs="unknown:034000_0015_0FF9FAD22D6A7AE8"/>he wanders on thoſe mountains where we ſo oft have ſtrayed, reclines on that bank where we ſo oft have ſat, or liſtens ſadly to the ſtarling which he taught to repeat my name. Perhaps then he ſighs; and murmurs to himſelf: <q>The flowers, the rivulets, the birds, every object reminds me of my well-beloved; but what ſhall remind her of Edwy?</q>—Oh! that will my heart, Edwy; I need no other remembrancer!</p>
                   </sp>
                   <sp>
                      <speaker>Alice.</speaker>
@@ -899,7 +900,7 @@
                      <p>The Lord be thanked!—Then it was not the ghoſt: It was I, Lady! It was I!—And have you heard no other ſinging ſince you came to the Caſtle?</p>
                   </sp>
                   <sp>
-                     <pb n="16" facs="tcp:034000_0016_0FF9FBD34442F140"/>
+                     <pb n="16" facs="unknown:034000_0016_0FF9FBD34442F140"/>
                      <speaker>Ang.</speaker>
                      <p>None. But why that queſtion?</p>
                   </sp>
@@ -948,7 +949,7 @@
                      <p>To-night, Lady? Heaven preſerve me! I wouldn't enter it after dark for the world!</p>
                   </sp>
                   <sp>
-                     <pb n="17" facs="tcp:034000_0017_0FF9FADCB6507AE0"/>
+                     <pb n="17" facs="unknown:034000_0017_0FF9FADCB6507AE0"/>
                      <speaker>Ang.</speaker>
                      <p>But before dark, Alice?</p>
                   </sp>
@@ -1003,7 +1004,7 @@
                   <sp>
                      <speaker>Motl.</speaker>
                      <p>Softly, ſoftly, a little caution is needful; and I promiſe you juſt now I'm not upon roſes. You remember
-<pb n="18" facs="tcp:034000_0018_0FF9FBDF52698FE0"/>he ſervant, who hinted that Earl Oſmond had an hand in his brother's murder!—Should I be ſuſpected of admitting you to the Caſtle, his fate might be mine; and whatever you may think of it, my Lord, I ſhouldn't be at all pleaſed at waking to-morrow morning, to find myſelf dead in my bed.</p>
+<pb n="18" facs="unknown:034000_0018_0FF9FBDF52698FE0"/>he ſervant, who hinted that Earl Oſmond had an hand in his brother's murder!—Should I be ſuſpected of admitting you to the Caſtle, his fate might be mine; and whatever you may think of it, my Lord, I ſhouldn't be at all pleaſed at waking to-morrow morning, to find myſelf dead in my bed.</p>
                   </sp>
                   <sp>
                      <speaker>Percy.</speaker>
@@ -1038,7 +1039,7 @@
                      <p>Oh, Heaven forbid! Not a word of it. Had I minded all the ſtrange things related of this Caſtle, I ſhould have died of fright in the firſt half hour. Why, they ſay that Earl Hubert rides every night round the Caſtle on a white horſe; that the ghoſt of Lady Bertha h<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>unts the weſt
-<pb n="19" facs="tcp:034000_0019_0FF9FAEC19AA1D38"/>pinnacle of the Chapel-Tower; and that Lord Hildebrand, who was condemned for treaſon ſome ſixty years ago, may be ſeen in the Great Hall, regularly at midnight, playing at foot-ball with his own head! Above all, they ſay that the ſpirit of the late Counteſs ſits nightly in her Oratory, and ſings her baby to ſleep. However, if it be ſo— <stage>[A bell ſounds thrice, loud and ſolemn]</stage>—Hark! 'tis the Earl! Quick to your poſt! <stage>[Percy aſcends the pedeſtal]</stage> Farewel!I muſt get out of his way; but as ſoon as he quits this chamber, I'll rejoin you.</p>
+<pb n="19" facs="unknown:034000_0019_0FF9FAEC19AA1D38"/>pinnacle of the Chapel-Tower; and that Lord Hildebrand, who was condemned for treaſon ſome ſixty years ago, may be ſeen in the Great Hall, regularly at midnight, playing at foot-ball with his own head! Above all, they ſay that the ſpirit of the late Counteſs ſits nightly in her Oratory, and ſings her baby to ſleep. However, if it be ſo— <stage>[A bell ſounds thrice, loud and ſolemn]</stage>—Hark! 'tis the Earl! Quick to your poſt! <stage>[Percy aſcends the pedeſtal]</stage> Farewel!I muſt get out of his way; but as ſoon as he quits this chamber, I'll rejoin you.</p>
                   </sp>
                   <sp>
                      <speaker>Percy.</speaker>
@@ -1051,7 +1052,7 @@
                   <sp>
                      <speaker>Oſm.</speaker>
                      <p>I will not ſacrifice my happineſs to her's! For ſix<g ref="char:EOLhyphen"/>teen long years have I thirſted; and now, when the cup of joy again ſtands full before me, ſhall I daſh it from my lip? No, Angela, you aſk of me too much. Since the moment when I pierced her heart, deprived of whom life became odi<g ref="char:EOLhyphen"/>ous; ſince my ſoul was ſtained with his blood who loved me, with her's whom I loved, no form has been grateful to my eye, no voice ſpoken pleaſure to my ſoul, ſave Angela's, ſave only Angela's! Doating upon one whom death has long claſped in his arms; tortured by deſires which I never hop<g ref="char:EOLhyphen"/>ed to ſatisfy, many a mournful year has my heart known no throb but of anguiſh, no gueſt but remorſe at committing a fruitleſs crime. Hope, that ſtranger, once more viſits my boſom: the fiend, who led me through paſſion's mazes to the heights of guilt, owns that a crime ſo great well merits a reward. He bids the monument's jaws uncloſe: Evelina revives in her daughter, and ſoon ſhall the fires which con<g ref="char:EOLhyphen"/>ſume me be quenched in Angela's arms. What though her heart be Percy's? What though ſhe prefer a baſiliſk's kiſs to mine? Becauſe my ſhort-lived joy may cauſe her eternal ſorrow, ſhall I reject thoſe pleaſures ſought ſo long, deſired ſo earneſtly? That will I not, by Heaven! Mine ſhe is,
-<pb n="20" facs="tcp:034000_0020_0FF9FBE9F85616B0"/>and mine ſhe ſhall be, though Reginald's bleeding ghoſt flit before me, and thunder in my ear—"Hold! hold!"—Peace, ſtormy heart! She comes!</p>
+<pb n="20" facs="unknown:034000_0020_0FF9FBE9F85616B0"/>and mine ſhe ſhall be, though Reginald's bleeding ghoſt flit before me, and thunder in my ear—"Hold! hold!"—Peace, ſtormy heart! She comes!</p>
                   </sp>
                   <stage>
                      <hi>Enter</hi> ANGELA.</stage>
@@ -1081,7 +1082,7 @@
                      <p>While I ſaw you, Cheviot Hills, I was happy, Oh! how happy! While I liſtened to your artleſs accents, friends of my childhood, how ſwelled my fond heart with gratitude and pleaſure! At morn, when I left my bed, light were my ſpirits, and gay as the zephyrs of ſummer; and when at night my head again preſſed my pillow, I whiſ<g ref="char:EOLhyphen"/>pered to myſelf, "Happy has been to-day, and to-morrow will be as happy!" Then ſweet was my ſleep; and my dreams were of thoſe whom I loved deareſt.</p>
                   </sp>
                   <sp>
-                     <pb n="21" facs="tcp:034000_0021_0FF9FAF980A1A2E8"/>
+                     <pb n="21" facs="unknown:034000_0021_0FF9FAF980A1A2E8"/>
                      <speaker>Oſm.</speaker>
                      <p>Romantic enthuſiaſt! theſe thoughts did well fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -1143,7 +1144,7 @@
                      <speaker>Oſm.</speaker>
                      <stage>[Paſſionately.]</stage>
                      <p>Love you to madneſs!—My boſ<g ref="char:EOLhyphen"/>om is a gulph of devouring flames! I muſt quench them in
-<pb n="22" facs="tcp:034000_0022_0FF9FBF4F77B8978"/>your arms, or periſh!—Nay, ſtrive not to eſcape; remain and hear me! I offer you my hand; if you accept it, miſ<g ref="char:EOLhyphen"/>treſs of theſe fair and rich domains, your days ſhall glide away in happineſs and honour; but if you refuſe, and ſcorn my offer, force ſhall this inſtant—</p>
+<pb n="22" facs="unknown:034000_0022_0FF9FBF4F77B8978"/>your arms, or periſh!—Nay, ſtrive not to eſcape; remain and hear me! I offer you my hand; if you accept it, miſ<g ref="char:EOLhyphen"/>treſs of theſe fair and rich domains, your days ſhall glide away in happineſs and honour; but if you refuſe, and ſcorn my offer, force ſhall this inſtant—</p>
                   </sp>
                   <sp>
                      <speaker>Ang.</speaker>
@@ -1209,7 +1210,7 @@
                      <speaker>Oſm. </speaker>
                      <stage>[Gazing upon Percy.]</stage>
                      <p>It came from hence!—From Reginald!—Was it not a deluſion?—Did indeed his ſpirit— <stage>[Relapſing into his former paſſion.]</stage> Well, be it ſo! Though his ghoſt ſhould ruſh between us, thus would I claſp her—Horror! What ſight is this?— <stage>[<hi>At the moment that he again ſeines</hi> Angela, Percy <hi>extends his truncheon with a me<g ref="char:EOLhyphen"/>nacing geſture, and deſcends from the pedeſtal.</hi> Oſmond <hi>releaſ<g ref="char:EOLhyphen"/>es</hi> Angela, <hi>who immediately ruſhes from the chamber, while</hi> Per<g ref="char:EOLhyphen"/>cy <hi>advances a few ſteps, and remains gazing on the</hi> Earl <hi>ſted<g ref="char:EOLhyphen"/>faſtly</hi>]</stage>—I know that ſhield!—that helmet!—Speak to me, dreadful viſion!—Tax me with my crimes!—Tell me, that you come—Stay! Speak!— <stage>[<hi>Following</hi> Percy, <hi>who, when
-<pb n="23" facs="tcp:034000_0023_0FF9FAFFAEA0FB30"/>he reaches the door, through which</hi> Angela <hi>eſcaped, turns, and ſigns to him with his hand.</hi> Oſmond <hi>ſtarts back in terror.</hi>]</stage>—He forbids my following!—He leaves me!—The door cloſes— <stage>[In a ſudden burſt of paſſion, and drawing his ſword]</stage>—Hell and fiends! I'll follow him, though lightnings blaſt med—</p>
+<pb n="23" facs="unknown:034000_0023_0FF9FAFFAEA0FB30"/>he reaches the door, through which</hi> Angela <hi>eſcaped, turns, and ſigns to him with his hand.</hi> Oſmond <hi>ſtarts back in terror.</hi>]</stage>—He forbids my following!—He leaves me!—The door cloſes— <stage>[In a ſudden burſt of paſſion, and drawing his ſword]</stage>—Hell and fiends! I'll follow him, though lightnings blaſt med—</p>
                      <stage>[He ruſhes diſtractedly from the chamber.]</stage>
                   </sp>
                </div>
@@ -1255,7 +1256,7 @@
                   <sp>
                      <speaker>Alice.</speaker>
                      <p>What he looked like, I cannot ſay; but I'm ſure he didn't feel like one. However, you've not heard the worſt. While I was ſprawling upon the ground, my Lord
-<pb n="24" facs="tcp:034000_0024_0FF9FC0015C6D440"/>comes tearing along the paſſage—The firſt thing he did was to ſtumble againſt me—away went his heels—over he came—and in the twinkling of an eye there lay his Lordſhip! As ſoon as he got up again—Mercy? how he ſtormed!—He ſnatched me up; cal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="24" facs="unknown:034000_0024_0FF9FC0015C6D440"/>comes tearing along the paſſage—The firſt thing he did was to ſtumble againſt me—away went his heels—over he came—and in the twinkling of an eye there lay his Lordſhip! As ſoon as he got up again—Mercy? how he ſtormed!—He ſnatched me up; cal<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>ed me an<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -1316,7 +1317,7 @@
                      <p>So, ſo, he's off, and now I've time to take breath. I've not moved ſo nimbly for the laſt twenty years; and, in truth, I'm at preſent but ill calculated for ve<g ref="char:EOLhyphen"/>locity of motion. However, my exertions have not been throv<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap> away: I've ſaved this poor knave from Oſmond's ven<g ref="char:EOLhyphen"/>geance—and ſhould my plan, for the Lady's releaſe, ſucceed—Poor little ſoul!—To ſee how ſhe took on, when Percy was
-<pb n="25" facs="tcp:034000_0025_0FF9FB0B9B744E18"/>torn from her! Well, well, ſhe ſhall be reſcued from her ty<g ref="char:EOLhyphen"/>rant. The moveable pannels—the ſubterraneous paſſages—the ſecret ſprings are well known to me—Oh! I cannot fail of ſucceſs: But in order to ſecure it, I'll finally arrange my ideas in the Buttery. Whenever I've any great deſign in hand, I always aſk advice of a flaggon of ale, and mature my plan over a cold veniſon paſty. Oh! what an excellent ge<g ref="char:EOLhyphen"/>nius muſt that man have had, who firſt invented eating and drinking!</p>
+<pb n="25" facs="unknown:034000_0025_0FF9FB0B9B744E18"/>torn from her! Well, well, ſhe ſhall be reſcued from her ty<g ref="char:EOLhyphen"/>rant. The moveable pannels—the ſubterraneous paſſages—the ſecret ſprings are well known to me—Oh! I cannot fail of ſucceſs: But in order to ſecure it, I'll finally arrange my ideas in the Buttery. Whenever I've any great deſign in hand, I always aſk advice of a flaggon of ale, and mature my plan over a cold veniſon paſty. Oh! what an excellent ge<g ref="char:EOLhyphen"/>nius muſt that man have had, who firſt invented eating and drinking!</p>
                   </sp>
                   <stage>Exit.</stage>
                </div>
@@ -1353,7 +1354,7 @@
                   <sp>
                      <speaker>Oſm.</speaker>
                      <p>No, Earl Percy!—I am not ſo raſh a gameſter as to ſuffer that caſt to be recalled, by which the ſtake is mine
-<pb n="26" facs="tcp:034000_0026_0FF9FC09A301AF68"/>already. Angela is in my power: The only man who could wreſt her from my arms has wilfully made himſelf my cap<g ref="char:EOLhyphen"/>tive: Such he is, and ſuch he ſhall remain.</p>
+<pb n="26" facs="unknown:034000_0026_0FF9FC09A301AF68"/>already. Angela is in my power: The only man who could wreſt her from my arms has wilfully made himſelf my cap<g ref="char:EOLhyphen"/>tive: Such he is, and ſuch he ſhall remain.</p>
                   </sp>
                   <sp>
                      <speaker>Percy.</speaker>
@@ -1420,7 +1421,7 @@
                         </gap>cates ſave tears—how will ſhe now repel his violence?</p>
                   </sp>
                   <sp>
-                     <pb n="27" facs="tcp:034000_0027_0FF9FB19AC7C59F8"/>
+                     <pb n="27" facs="unknown:034000_0027_0FF9FB19AC7C59F8"/>
                      <speaker>Muley.</speaker>
                      <p>Now he's in a deep ſtudy: Marry, if he ſtudies himſelf out of this tower, he's a cleverer fellow than I take him for.</p>
                   </sp>
@@ -1481,7 +1482,7 @@
                      <p>To liberty?</p>
                   </sp>
                   <sp>
-                     <pb n="28" facs="tcp:034000_0028_0FF9FC14B6491458"/>
+                     <pb n="28" facs="unknown:034000_0028_0FF9FC14B6491458"/>
                      <speaker>Muley.</speaker>
                      <p>That purſe?</p>
                   </sp>
@@ -1578,7 +1579,7 @@
                      </p>
                   </sp>
                   <sp>
-                     <pb n="29" facs="tcp:034000_0029_0FF9FB258585A2A0"/>
+                     <pb n="29" facs="unknown:034000_0029_0FF9FB258585A2A0"/>
                      <speaker>Saib.</speaker>
                      <p>You miſtake us, Sir; we cannot be villains; for I, you know, am your Lordſhip's "worthy friend!"</p>
                   </sp>
@@ -1674,7 +1675,7 @@
                      <p>A boat lies at the foot of the tower, and the fiſher<g ref="char:EOLhyphen"/>men ſing while they draw their nets.</p>
                   </sp>
                   <sp>
-                     <pb n="30" facs="tcp:034000_0030_0FF9FC225F0905C8"/>
+                     <pb n="30" facs="unknown:034000_0030_0FF9FC225F0905C8"/>
                      <speaker>Percy.</speaker>
                      <p>I could not be miſtaken—It was Gilbert!</p>
                   </sp>
@@ -1792,7 +1793,7 @@
                      <p>Nine too!—Double the ſtake.</p>
                   </sp>
                   <sp>
-                     <pb n="31" facs="tcp:034000_0031_0FF9FD1671151428"/>
+                     <pb n="31" facs="unknown:034000_0031_0FF9FD1671151428"/>
                      <speaker>Saib.</speaker>
                      <p>Agreed! and the throw is mine. Hark! What noiſe!</p>
                      <stage>[<hi>Duri<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -1887,7 +1888,7 @@
                   <sp>
                      <speaker>Kenr.</speaker>
                      <p>YONDER he ſtalks, and ſeems buried in himſelf. Now then to attack him while my late ſervice is ſtill freſh upon his memory. Should he reject my petition poſitively,
-<pb n="32" facs="tcp:034000_0032_0FF9FC3006A92788"/>he ſhall have good cauſe to repent his ingratitude. Percy is in the neighbourhood; and that ſecret, known only to myſelf, will ſurely—but, ſilence! Look where he comes!</p>
+<pb n="32" facs="unknown:034000_0032_0FF9FC3006A92788"/>he ſhall have good cauſe to repent his ingratitude. Percy is in the neighbourhood; and that ſecret, known only to myſelf, will ſurely—but, ſilence! Look where he comes!</p>
                   </sp>
                   <stage>
                      <hi>Enter</hi> OSMOND.</stage>
@@ -1923,7 +1924,7 @@
                   <sp>
                      <speaker>Oſm.</speaker>
                      <p>Anguiſh! endleſs, hopeleſs anguiſh! Day or night, no moment of reſt. When I ſleep, dreams of ſtrange horror
-<pb n="33" facs="tcp:034000_0033_0FF9FD1E0EEE9608"/>ſtill fright me from my couch! When I wake, I find in every object ſome cauſe for diſtruſt—read the dread charge in every eye, "thou art a murderer!" and tremble, leſt the agents of my guilt ſhould work its puniſhment. And ſee where he walks, the chief object of my fears—he ſhall not be ſo long! His anxiety to leave me, his late myſterious threats—No, no, I will not live in fear.—Soft!—he advances!</p>
+<pb n="33" facs="unknown:034000_0033_0FF9FD1E0EEE9608"/>ſtill fright me from my couch! When I wake, I find in every object ſome cauſe for diſtruſt—read the dread charge in every eye, "thou art a murderer!" and tremble, leſt the agents of my guilt ſhould work its puniſhment. And ſee where he walks, the chief object of my fears—he ſhall not be ſo long! His anxiety to leave me, his late myſterious threats—No, no, I will not live in fear.—Soft!—he advances!</p>
                   </sp>
                   <sp>
                      <speaker>Kenr.</speaker>
@@ -1958,7 +1959,7 @@
                   <sp>
                      <speaker>Oſm.</speaker>
                      <p>Kenric, ere named, your wiſh was granted. In a far diſtant country a retreat is already prepared for you; there may you huſh thoſe clamours of conſcience, which
-<pb n="34" facs="tcp:034000_0034_0FF9CCE64AAF36D8"/>muſt reach me, I fear, even in the arms of Angela. Yet do not leave me till ſhe is my bride; ſtay yet a week in Conway Caſtle; and then, though it will coſt me many a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="34" facs="unknown:034000_0034_0FF9CCE64AAF36D8"/>muſt reach me, I fear, even in the arms of Angela. Yet do not leave me till ſhe is my bride; ſtay yet a week in Conway Caſtle; and then, though it will coſt me many a<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>
                         <g ref="char:EOLhyphen"/>pang, Kenric, you ſhall bid it a long adieu.—Are you eontented?</p>
@@ -2027,7 +2028,7 @@
                      <speaker>Kenr.</speaker>
                      <p>Ha! that look—that threat—Yet he ſeemed ſo kind, ſo grateful!—He ſmiled too!—Oh! there is ever danger when a villain ſmiles.</p>
                   </sp>
-                  <pb n="35" facs="tcp:034000_0035_0FF9FD2A0D0A2280"/>
+                  <pb n="35" facs="unknown:034000_0035_0FF9FD2A0D0A2280"/>
                   <stage>SAIB <hi>enters ſoftly, looking round him with caution.</hi>
                   </stage>
                   <sp>
@@ -2067,7 +2068,7 @@
                      <speaker>F. Phil. </speaker>
                      <stage>[Cloſing the pannel.]</stage>
                      <p>Thus far I have proceed<g ref="char:EOLhyphen"/>ed without danger, though not without difficulty. Yon nar<g ref="char:EOLhyphen"/>row paſſage is by no means calculated for perſons of my habit of body. By my Holidame, I begin to ſuſpect that the fool is in the right! I certainly am growing corpulent.—And now, how ſhall I employ myſelf?—Sinner that I am, why did I forget my bottle of ſack?—The time will paſs tediouſly till Angela comes.—And, to complete the buſineſs, yonder is the haunted Oratory. What if the ghoſt ſhould pop out on me? Bleſſed St. Bridget, there would be a tête-à-tête
-<pb n="36" facs="tcp:034000_0036_0FF9FC4401DFD3F0"/>
+<pb n="36" facs="unknown:034000_0036_0FF9FC4401DFD3F0"/>
                         <gap reason="illegible" resp="#PDCC" extent="1 span">
                            <desc>〈…〉</desc>
                         </gap> this is a fooliſh fear:—'Tis yet ſcarce eight o'clock, and your ghoſts always keep late hours; yet I don't like the idea of our being ſuch near neighbours. If Alice ſays true, the apparition juſt now lives next door to me; but the Lord forbid that we ſhould ever be viſiting acquaint<g ref="char:EOLhyphen"/>ance!—Would I had ſomething to drive her out of my head! A good book now, or a bottle of ſack, St. Auguſtine, or a cold veniſon paſty, would be worth its weight in gold: but in the ch<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -2102,7 +2103,7 @@
                   <sp>
                      <speaker>Ang.</speaker>
                      <p>Before you! before the world!—Is my attach<g ref="char:EOLhyphen"/>ment a diſgrace? No! 'tis my pride; for its object is deſerv<g ref="char:EOLhyphen"/>ing. Long ere I knew him, Percy's fame was dear to me. While I ſtill believed him the peaſant Edwy, often, in his hearing, have I dwelt upon Northumberland's praiſe, and chid him that he ſpoke of our Lord ſo coldly! Ah! little did I think that the man then ſeated beſide me was he whom I envied for his power of doing good, whom I loved for exerting that power ſo largely!—Judge then, Earl Oſmond,
-<pb n="37" facs="tcp:034000_0037_0FF9FC5249D09A90"/>on my arrival here how ſtrongly I muſt have felt the con<g ref="char:EOLhyphen"/>traſt!—What peaſant names you his benefactor? What beg<g ref="char:EOLhyphen"/>gar has been comforted by your bounty? What ſick man preſerved by your care?—Your breaſt is unmoved by woe, your ear is deaf to complaint, your doors are barred againſt the poor and wretched. Not ſo are the gates of Alnwic Caſ<g ref="char:EOLhyphen"/>tle; they are open as their owner's heart.</p>
+<pb n="37" facs="unknown:034000_0037_0FF9FC5249D09A90"/>on my arrival here how ſtrongly I muſt have felt the con<g ref="char:EOLhyphen"/>traſt!—What peaſant names you his benefactor? What beg<g ref="char:EOLhyphen"/>gar has been comforted by your bounty? What ſick man preſerved by your care?—Your breaſt is unmoved by woe, your ear is deaf to complaint, your doors are barred againſt the poor and wretched. Not ſo are the gates of Alnwic Caſ<g ref="char:EOLhyphen"/>tle; they are open as their owner's heart.</p>
                   </sp>
                   <sp>
                      <speaker>Alice.</speaker>
@@ -2146,7 +2147,7 @@
                      <p>The firſt may, Lady; but as to the ſecond, he'll be of no uſe, depend on't. Now, might I adviſe, you'd ac<g ref="char:EOLhyphen"/>cept my Lord's offer. What matters it, whether the man's name be Oſmond or Percy? An Earl's an Earl after all; and though one may be ſomething richer than t'other—</p>
                   </sp>
                   <sp>
-                     <pb n="38" facs="tcp:034000_0038_0FF9FC661CBC9528"/>
+                     <pb n="38" facs="unknown:034000_0038_0FF9FC661CBC9528"/>
                      <speaker>Ang.</speaker>
                      <p>Oh! ſilence, Alice! nor aid my tyrant's deſigns, Rather inſtruct me how to counteract them. You have in<g ref="char:EOLhyphen"/>fluence in the Caſtle; aſſiſt me to eſcape, and be aſſured that Percy's gratitude and generoſity—</p>
                   </sp>
@@ -2204,7 +2205,7 @@
                      </speaker>
                      <stage>[<hi>Having opened the folding doors, an Oratory is ſeen, richly ornamented with carving and painted glaſs:</hi> Angela <hi>and</hi> Alice <hi>enter it.</hi>]</stage>
                      <p>This room has not been opened ſince my Lady's death, and every thing remains as ſhe left it. Look,
-<pb n="39" facs="tcp:034000_0039_0FF9CCF5F2DE8988"/>here is her veil—her prayer-book too, in which ſhe was read<g ref="char:EOLhyphen"/>ing on the very night before ſhe quitted the Caſtle, never to return!</p>
+<pb n="39" facs="unknown:034000_0039_0FF9CCF5F2DE8988"/>here is her veil—her prayer-book too, in which ſhe was read<g ref="char:EOLhyphen"/>ing on the very night before ſhe quitted the Caſtle, never to return!</p>
                   </sp>
                   <sp>
                      <speaker>F. Phil.</speaker>
@@ -2249,7 +2250,7 @@
                   <sp>
                      <speaker>Alice.</speaker>
                      <p>I declare it made me tremble. Well, as I was ſaying, I remember juſt after Earl Reginald had ſet out to the Scottiſh wars, going into her room one morning, and hearing her ſob moſt bitterly; ſo advancing to the bed-ſide, as it might be thus—"My Lady," ſays I, with a low courtſey, "Isn't your Ladyſhip well?" ſo, with that ſhe raiſed her
-<pb n="40" facs="tcp:034000_0040_0FF9CCFD84451BF0"/>head ſlowly above the quilt, and, giving me a mournful look—</p>
+<pb n="40" facs="unknown:034000_0040_0FF9CCFD84451BF0"/>head ſlowly above the quilt, and, giving me a mournful look—</p>
                      <stage>[<hi>Here, unſeen by</hi> Angela, <hi>who is contemplating</hi> Reginald's <hi>portrait,</hi> Father Philip <hi>lifts up his head, and gives a deep groan.</hi>]</stage>
                   </sp>
                   <sp>
@@ -2309,7 +2310,7 @@
                   <sp>
                      <speaker>Ang.</speaker>
                      <p>This is thy doing, God of Juſtice! receive my thanks.—Yes, Percy, we ſhall meet once more—ſhall meet, never again to ſeparate! Thoſe dreams ſhall be realized, thoſe ſmiling golden dreams which floated before us in Allan's happy cottage. Hand in hand ſhall we wander
-<pb n="41" facs="tcp:034000_0041_0FF9FD3303AE4A90"/>together through life—partners in pleaſure, partners in woe. And when the night of our exiſtence arrives, one ſpot ſhall receive our bodies—one ſtone ſhall cover our grave. Allan too, and the worthy Maud!—my parents—my more than parents! to ſmooth the pillow of their age—to gild their laſt hours with ſun-ſhine! that thought is heaven. So glo<g ref="char:EOLhyphen"/>rious are my proſpects, that they dazzle me to look on, and ſcarce can I believe them really to exiſt. Oh! gracious God! ſhould my brain be bewildered by fancy—ſhould I be now the ſport of ſome deceitful dream, ſeal up my eyes forever, never let me wake again!—I muſt not expect the Friar before one; till that hour arrives, will I kneel at the feet of yonder Saint, there tell my beads, and pray for morning.</p>
+<pb n="41" facs="unknown:034000_0041_0FF9FD3303AE4A90"/>together through life—partners in pleaſure, partners in woe. And when the night of our exiſtence arrives, one ſpot ſhall receive our bodies—one ſtone ſhall cover our grave. Allan too, and the worthy Maud!—my parents—my more than parents! to ſmooth the pillow of their age—to gild their laſt hours with ſun-ſhine! that thought is heaven. So glo<g ref="char:EOLhyphen"/>rious are my proſpects, that they dazzle me to look on, and ſcarce can I believe them really to exiſt. Oh! gracious God! ſhould my brain be bewildered by fancy—ſhould I be now the ſport of ſome deceitful dream, ſeal up my eyes forever, never let me wake again!—I muſt not expect the Friar before one; till that hour arrives, will I kneel at the feet of yonder Saint, there tell my beads, and pray for morning.</p>
                   </sp>
                   <trailer>END OF THE THIRD ACT.</trailer>
                </div>
@@ -2347,7 +2348,7 @@
                         </gap> as much.</p>
                   </sp>
                   <sp>
-                     <pb n="42" facs="tcp:034000_0042_0FF9FC7B68E07A40"/>
+                     <pb n="42" facs="unknown:034000_0042_0FF9FC7B68E07A40"/>
                      <speaker>F. Phil.</speaker>
                      <p>Reſpect for the devil, you wicked woman!—for that perfidious ſerpent—that crafty ſeducer—</p>
                   </sp>
@@ -2396,7 +2397,7 @@
                   <sp>
                      <speaker>F. Phil.</speaker>
                      <p>Oh! far from it: I think you've uncommon<g ref="char:EOLhyphen"/>ly good ones; for you not only hear what has been ſaid, but what has not. Hark!—the clock ſtrikes twelve:—'Tis late, and I'm ſleepy, ſo ſhall bid you farewel for the preſent. As to this wonderful ſtory of yours, Alice, I don't believe
-<pb n="43" facs="tcp:034000_0043_0FF9FD3781C51C18"/>one word of it: I'll be ſworn that the voice was no more like your Lady's than like mine; and that the devil was no more in the bed than I was. Therefore, take my advice, ſet your heart at reſt, and go quietly to your chamber, as I am now going to mine.—Good night.</p>
+<pb n="43" facs="unknown:034000_0043_0FF9FD3781C51C18"/>one word of it: I'll be ſworn that the voice was no more like your Lady's than like mine; and that the devil was no more in the bed than I was. Therefore, take my advice, ſet your heart at reſt, and go quietly to your chamber, as I am now going to mine.—Good night.</p>
                   </sp>
                   <sp>
                      <speaker>Alice.</speaker>
@@ -2436,7 +2437,7 @@
                   <sp>
                      <speaker>Alice.</speaker>
                      <p>There, he's gone!—Dear heart! Dear heart! what ſhall I do now?—'Tis paſt twelve o'clock, and ſtay by
-<pb n="44" facs="tcp:034000_0044_0FF9CD6E81F80358"/>myſelf I dare not.—I'll e'en wake the laundry-maid, make her ſit up in my room all night; and 'tis hard if two women a'n't a match for the beſt devil in Chriſtendom.</p>
+<pb n="44" facs="unknown:034000_0044_0FF9CD6E81F80358"/>myſelf I dare not.—I'll e'en wake the laundry-maid, make her ſit up in my room all night; and 'tis hard if two women a'n't a match for the beſt devil in Chriſtendom.</p>
                   </sp>
                   <stage>Exit.</stage>
                   <stage>
@@ -2468,7 +2469,7 @@
                   <sp>
                      <speaker>Saib.</speaker>
                      <p>But ſay, you be one of thoſe whom he cauſes to ſuffer, how then? Haſſan, I will ſleep no more in the li<g ref="char:EOLhyphen"/>on's
-<pb n="45" facs="tcp:034000_0045_0FF9CD5BB54DA910"/>den! My reſolve is taken: I will away from the Caſ<g ref="char:EOLhyphen"/>tle, and ſeek in ſome other ſervice that ſecurity—</p>
+<pb n="45" facs="unknown:034000_0045_0FF9CD5BB54DA910"/>den! My reſolve is taken: I will away from the Caſ<g ref="char:EOLhyphen"/>tle, and ſeek in ſome other ſervice that ſecurity—</p>
                   </sp>
                   <sp>
                      <speaker>Oſm. </speaker>
@@ -2514,7 +2515,7 @@
                   <sp>
                      <speaker>Oſm.</speaker>
                      <p>Anſwer me not! Let me not hear the damning truth! Tell me not, that flames await me! that for mo<g ref="char:EOLhyphen"/>ments of bliſs I muſt endure long ages of torture! Plunge the rather in the thickeſt gloom of Atheiſm! Say, that with my body, muſt periſh my ſoul! For, oh! ſhould my fear<g ref="char:EOLhyphen"/>ful dream be prophetic!—Hark, fellows! Inſtruments of my guilt, liſten to my puniſhment!—Methought I wandered through the low-browed caverns, where repoſe the reliques of my anceſtors. My eye dwelt with awe on their tombs, with diſguſt on Mortality's ſurrounding emblems! Sudden<g ref="char:EOLhyphen"/>ly
-<pb n="46" facs="tcp:034000_0046_0FF9CD14C1801FF0"/>a female form glided along the vault: It was Angela! She ſmiled upon me, and beckoned me to advance. I flew towards her; my arms were already uncloſed to claſp her—when ſuddenly her figure changed, her face grew pale, a ſtream of blood guſhed from her boſom!—Haſſan, 'twas Evelina!</p>
+<pb n="46" facs="unknown:034000_0046_0FF9CD14C1801FF0"/>a female form glided along the vault: It was Angela! She ſmiled upon me, and beckoned me to advance. I flew towards her; my arms were already uncloſed to claſp her—when ſuddenly her figure changed, her face grew pale, a ſtream of blood guſhed from her boſom!—Haſſan, 'twas Evelina!</p>
                   </sp>
                   <sp>
                      <speaker>
@@ -2564,7 +2565,7 @@
                         <gap reason="illegible" resp="#PDCC" extent="3 letters">
                            <desc>•••</desc>
                         </gap>ale be credited, long ere Percy can wreſt
-<pb n="47" facs="tcp:034000_0047_0FF9FD40A515FCF0"/>her from me, ſhall Angela be mine. Angela!—Oh! at that name all again is calm in my boſom. Huſhed by her image, my tumultuous paſſions ſink to reſt, and my terrors ſubſide into that ſingle fear—her loſs! I forget that I have waded to her arms through blood; forget all, ſave my affec<g ref="char:EOLhyphen"/>tion and her beauty!</p>
+<pb n="47" facs="unknown:034000_0047_0FF9FD40A515FCF0"/>her from me, ſhall Angela be mine. Angela!—Oh! at that name all again is calm in my boſom. Huſhed by her image, my tumultuous paſſions ſink to reſt, and my terrors ſubſide into that ſingle fear—her loſs! I forget that I have waded to her arms through blood; forget all, ſave my affec<g ref="char:EOLhyphen"/>tion and her beauty!</p>
                   </sp>
                   <sp>
                      <speaker>Saib.</speaker>
@@ -2586,7 +2587,7 @@
                      <speaker>Haſſ. </speaker>
                      <stage>[Alone.]</stage>
                      <p>Yes, thou art ſweet, Vengeance! Oh! how it joys me when the white man ſuffers! Yet weak are his pangs, compared to thoſe I felt when torn from thy ſhores, O native Africa! from thy boſom, my faithful Samba!—Ah! doſt thou ſtill exiſt, my wife? Has ſorrow for my loſs traced thy ſmooth brow with wrinkles?—My boy too, whom on that morning when the man-hunters ſeized me, I left ſleep<g ref="char:EOLhyphen"/>ing
-<pb n="48" facs="tcp:034000_0048_0FF9FC906463F6B8"/>on thy boſom, ſay, Lives he yet? Does he ever ſpeak of me? Does he aſk, "Mother, deſcribe to me my father; ſhow me how the warrior looked?" Ha! has my boſom ſtill room for thoughts ſo tender? Hence with them! Vengeance muſt poſſeſs it all! Oh! when I forget my wrongs, may I forget myſelf! When I forbear to hate theſe Chriſtians, God of my fathers! mayſt thou hate me!—Ha! Whence that light? A man moves this way with a lamp! How cautiouſly he ſteals along! He muſt be watched. This friendly column will ſhield me from his regards. Silence! He comes.</p>
+<pb n="48" facs="unknown:034000_0048_0FF9FC906463F6B8"/>on thy boſom, ſay, Lives he yet? Does he ever ſpeak of me? Does he aſk, "Mother, deſcribe to me my father; ſhow me how the warrior looked?" Ha! has my boſom ſtill room for thoughts ſo tender? Hence with them! Vengeance muſt poſſeſs it all! Oh! when I forget my wrongs, may I forget myſelf! When I forbear to hate theſe Chriſtians, God of my fathers! mayſt thou hate me!—Ha! Whence that light? A man moves this way with a lamp! How cautiouſly he ſteals along! He muſt be watched. This friendly column will ſhield me from his regards. Silence! He comes.</p>
                   </sp>
                   <stage>Retires.</stage>
                   <stage>KENRIC <hi>enters ſoftly with a Lamp.</hi>
@@ -2612,7 +2613,7 @@
                      <speaker>Ang.</speaker>
                      <p>Will it never arrive—this tedious lingering hour? Sure an age muſt have elapſed ſince the Friar left me, and ſtill the bell ſtrikes not One!—Percy, does thy impatience equal mine? Doſt thou too count the moments which divide us? Doſt thou too chide the ſlowneſs of time's pinions, which moved ſo ſwiftly when we ſtrayed together on the Cheviot Hills? Methinks I ſee him now, as he paces the Conway's margin: If a leaf falls, if a bird flutters, he flies towards it; for he thinks 'tis the footſtep of Angela: Then, with ſlow ſteps and bending head, diſappointed he regains the fiſher's cottage. Perhaps, at this moment, his eyes like mine are ſixed on yonder planet; perhaps this ſweet wind which plays on my cheek, is freighted with the ſighs of my lover.—Oh! ſigh no more, my Percy! Soon ſhall I repoſe in ſafety on your boſom; ſoon again ſee the moon ſhed her ſilver light on Cheviot, and hear its green hills repeat the carol of your mellow horn!</p>
                      <lg>
-                        <pb n="49" facs="tcp:034000_0049_0FF9FD4523481EA8"/>
+                        <pb n="49" facs="unknown:034000_0049_0FF9FD4523481EA8"/>
                         <head>SONG.</head>
                         <lg>
                            <l>How ſlow the lingering moments wear!</l>
@@ -2678,7 +2679,7 @@
                         <gap reason="illegible" resp="#PDCC" extent="2 letters">
                            <desc>••</desc>
                         </gap>rſion burſt not forth, till Evelina Neville, rejecting his hand, beſtowed her's with
-<pb n="50" facs="tcp:034000_0050_0FF9FC9CC9027CF0"/>her heart on Reginald. Then did Oſmond's paſſion over<g ref="char:EOLhyphen"/>leap all bounds. He reſolved to aſſaſſinate his brother when returning from the Scottiſh wars, carry off the Lady, and make himſelf maſter of her perſon by force. This ſcheme he imparted to me: He flattered, threatened, promiſed—and I yielded to his ſeduction!</p>
+<pb n="50" facs="unknown:034000_0050_0FF9FC9CC9027CF0"/>her heart on Reginald. Then did Oſmond's paſſion over<g ref="char:EOLhyphen"/>leap all bounds. He reſolved to aſſaſſinate his brother when returning from the Scottiſh wars, carry off the Lady, and make himſelf maſter of her perſon by force. This ſcheme he imparted to me: He flattered, threatened, promiſed—and I yielded to his ſeduction!</p>
                   </sp>
                   <sp>
                      <speaker>Ang.</speaker>
@@ -2715,7 +2716,7 @@
                      <p>Hold! oh hold!—Lady, how little do I deſerve your thanks!—Oh liſten, liſten!—I was the laſt to quit the bloody ſpot. Sadly was I retiring, when a faint groan ſtruck my ear. I ſprang from my horſe; I placed my hand on Reginald's heart; it beat beneath the preſſure!</p>
                   </sp>
                   <stage>
-                     <pb n="51" facs="tcp:034000_0051_0FF9FD4CAA9F25E8"/>
+                     <pb n="51" facs="unknown:034000_0051_0FF9FD4CAA9F25E8"/>
 [<hi>Here</hi> Oſmond <hi>appears at the door, motions to</hi> Saib, <hi>&amp;c. to retire, and advances himſelf, unobſerved.</hi>]</stage>
                   <sp>
                      <speaker>Ang.</speaker>
@@ -2755,7 +2756,7 @@
                      <p>Miſcreant!—Within there!</p>
                   </sp>
                   <stage>
-                     <pb n="52" facs="tcp:034000_0052_0FF9FCA8C080FF70"/>
+                     <pb n="52" facs="unknown:034000_0052_0FF9FCA8C080FF70"/>
                      <hi>Enter</hi> SAIB, HASSAN, MULEY, <hi>and</hi> ALARIC.</stage>
                   <sp>
                      <speaker>Oſm.</speaker>
@@ -2796,7 +2797,7 @@
                   <sp>
                      <speaker>Oſm.</speaker>
                      <p>Yet if you ſtill reject my offers, thus muſt it be. Tortures ſhall compel Kenric to reveal what dungeon con<g ref="char:EOLhyphen"/>ceals your father; and ere to-morrow dawns ſhall Angela lie a bride in my arms, or Reginald a corſe at my feet. Nay,
-<pb n="53" facs="tcp:034000_0053_0FF9FD5133305AD8"/>ſpare entreaties! Why ſhould I heed your ſorrows? You have gazed unmoved upon mine! Why ſhould I be ſoften<g ref="char:EOLhyphen"/>ed by your tears? Mine never were dried by your pity! Cold and inflexible have you been to <hi>my</hi> deſpair; ſo will I be to <hi>your's.</hi> Speak, then—Is Percy's love or your father's life moſt dear to you? Does the falſe miſtreſs or the unnat<g ref="char:EOLhyphen"/>ural child ſound moſt grating in your ears? Muſt Reginald die, or will Angela be mine?</p>
+<pb n="53" facs="unknown:034000_0053_0FF9FD5133305AD8"/>ſpare entreaties! Why ſhould I heed your ſorrows? You have gazed unmoved upon mine! Why ſhould I be ſoften<g ref="char:EOLhyphen"/>ed by your tears? Mine never were dried by your pity! Cold and inflexible have you been to <hi>my</hi> deſpair; ſo will I be to <hi>your's.</hi> Speak, then—Is Percy's love or your father's life moſt dear to you? Does the falſe miſtreſs or the unnat<g ref="char:EOLhyphen"/>ural child ſound moſt grating in your ears? Muſt Reginald die, or will Angela be mine?</p>
                   </sp>
                   <sp>
                      <speaker>Ang.</speaker>
@@ -2847,7 +2848,7 @@
                      </stage>
                   </sp>
                   <sp>
-                     <pb n="54" facs="tcp:034000_0054_0FF9FCB4D9AE9D90"/>
+                     <pb n="54" facs="unknown:034000_0054_0FF9FCB4D9AE9D90"/>
                      <speaker>Ang.</speaker>
                      <stage>[Alone.]</stage>
                      <p>He faints!—Long may the villain wear thy chains, Oblivion! Long be it ere he wakes to commit new crimes!—My father in Oſmond's power?—Oh! 'tis a dreadful thought!—But no, it muſt not, ſhall not be!—I will to Oſmond, will promiſe to be his, will ſacrifice my love, my happineſs, my peace of mind—every thing but my father!—Yet, to bid an aſſaſſin reſt upon my boſom, to preſs that hand in mine which pierced the heart of my parent—Oh! it were monſtrous!— <stage>
@@ -2865,7 +2866,7 @@
                   </sp>
                   <stage>
                      <hi>[The folding-doors uncloſe, and the Oratory is ſeen illuminated. In its centre ſtands a tall female figure; her white and flowing garments ſpotted with blood; her veil is thrown back, and diſ<g ref="char:EOLhyphen"/>covers a pale and melancholy countenance; her eyes are lifted upwards; her arms extended towards heaven; and a large wound appears upon her boſom.</hi> Angela <hi>ſinks upon her knees, with her eyes rivetted upon the figure, which, for ſome moments re<g ref="char:EOLhyphen"/>mains motionleſs. At length the Spectre advances ſlowly, to a ſoft
-<pb n="55" facs="tcp:034000_0055_0FF9FD58AD19A398"/>and plaintive ſtrain! She ſtops oppoſite</hi> Reginald's <hi>picture, and ga<g ref="char:EOLhyphen"/>zes upon it in ſilence. She then turns, approaches</hi> Angela, <hi>ſeems to invoke a bleſſing upon her, points to the picture, and retires to the Oratory. The muſic ceaſes.</hi> Angela <hi>riſes with a wild look, and follows the viſion, extending her arms towards it.]</hi>
+<pb n="55" facs="unknown:034000_0055_0FF9FD58AD19A398"/>and plaintive ſtrain! She ſtops oppoſite</hi> Reginald's <hi>picture, and ga<g ref="char:EOLhyphen"/>zes upon it in ſilence. She then turns, approaches</hi> Angela, <hi>ſeems to invoke a bleſſing upon her, points to the picture, and retires to the Oratory. The muſic ceaſes.</hi> Angela <hi>riſes with a wild look, and follows the viſion, extending her arms towards it.]</hi>
                   </stage>
                   <sp>
                      <speaker>Ang.</speaker>
@@ -2908,7 +2909,7 @@
                   <sp>
                      <speaker>Motl.</speaker>
                      <p>I'm ſure no flame burning in your boſom, can give you ſo much pain as an arrow would give me ſticking
-<pb n="56" facs="tcp:034000_0056_0FF9FCC25C8331C0"/>in mine; and as to your fears of loſing the Lady, I'd bet mine of loſing my life againſt any fears in Chriſtendom!</p>
+<pb n="56" facs="unknown:034000_0056_0FF9FCC25C8331C0"/>in mine; and as to your fears of loſing the Lady, I'd bet mine of loſing my life againſt any fears in Chriſtendom!</p>
                   </sp>
                   <sp>
                      <speaker>Percy.</speaker>
@@ -2943,7 +2944,7 @@
                   <sp>
                      <speaker>Motl.</speaker>
                      <p>A perſon well calculated to charm both my heart and my ſtomach: It was a lady of great merit, who did your
-<pb n="57" facs="tcp:034000_0057_0FF9FD5BB4C9C758"/>father the honour to ſuperintend his culinary concerns. I was ſcarce fifteen, when ſhe kindled a flame in my heare while lighting the kitchen fire, and from that moment I thought on nothing but her. My mornings were paſſed in compoſing poems on her beauty, my evenings in reciting them in her ear; for nature had equally denied the fair creature and myſelf the faculty of reading and writing.</p>
+<pb n="57" facs="unknown:034000_0057_0FF9FD5BB4C9C758"/>father the honour to ſuperintend his culinary concerns. I was ſcarce fifteen, when ſhe kindled a flame in my heare while lighting the kitchen fire, and from that moment I thought on nothing but her. My mornings were paſſed in compoſing poems on her beauty, my evenings in reciting them in her ear; for nature had equally denied the fair creature and myſelf the faculty of reading and writing.</p>
                   </sp>
                   <sp>
                      <speaker>Percy.</speaker>
@@ -3000,7 +3001,7 @@
                      <p>Oh, heed not me! Think, that on theſe few mo<g ref="char:EOLhyphen"/>ments depends our ſafety. Angela's freedom, Reginald's life!—You have the maſter-key! Fly, then—oh, fly to Percy!</p>
                   </sp>
                   <sp>
-                     <pb n="58" facs="tcp:034000_0058_0FF9FCC5923047D0"/>
+                     <pb n="58" facs="unknown:034000_0058_0FF9FCC5923047D0"/>
                      <speaker>Percy.</speaker>
                      <stage>[Starting forward.]</stage>
                      <p>Said he not Reginald? Speak again, ſtranger! What of Reginald?</p>
@@ -3073,7 +3074,7 @@
                      <p>Thanks to St. Francis, we have as yet paſſed unobſerved!—Surely, of all travelling companions, Fear is the leaſt agreeable: I couldn't be more fatigued, had I run twenty miles without ſtopping!</p>
                   </sp>
                   <sp>
-                     <pb n="59" facs="tcp:034000_0059_0FF9FD6057184310"/>
+                     <pb n="59" facs="unknown:034000_0059_0FF9FD6057184310"/>
                      <speaker>Ang.</speaker>
                      <p>Why this delay?—Good Father, let us pro<g ref="char:EOLhyphen"/>ceed.</p>
                   </sp>
@@ -3133,7 +3134,7 @@
                      <speaker>Oſm. </speaker>
                      <stage>[Alone.]</stage>
                      <p>Yes! this is the place. If Kenrie ſaid true, for ſixteen years have the vaults beneath me rung with my brother's groans. I dread to uncloſe the door! How ſhall I ſuſtain the beams of his eye when they reſt on Eveli<g ref="char:EOLhyphen"/>na's murderer? How will his proud heart ſwell with rage at meeting his uſurping brother! Ah, the beams of his eye muſt long ſince have been quenched in tears! The pride of his heart muſt by this be ſubdued by ſufferings!—Great have
-<pb n="60" facs="tcp:034000_0060_0FF9FCD68243E908"/>been thoſe ſufferings—in truth ſo great, that even my hatred bends before them. Yet for that hatred, had I not cauſe? At Tournaments, 'twas on Reginald that each bright eye was bent; at Court, 'twas to Reginald that each noble prof<g ref="char:EOLhyphen"/>fered friendſhip. Evelina too!—Ha! at that name my ex<g ref="char:EOLhyphen"/>piring hate revives! Reginald! Reginald! for thee was I ſacrificed! Oh! when it ſtrikes a ſecond blow, my poniard ſhall ſtab ſurer.</p>
+<pb n="60" facs="unknown:034000_0060_0FF9FCD68243E908"/>been thoſe ſufferings—in truth ſo great, that even my hatred bends before them. Yet for that hatred, had I not cauſe? At Tournaments, 'twas on Reginald that each bright eye was bent; at Court, 'twas to Reginald that each noble prof<g ref="char:EOLhyphen"/>fered friendſhip. Evelina too!—Ha! at that name my ex<g ref="char:EOLhyphen"/>piring hate revives! Reginald! Reginald! for thee was I ſacrificed! Oh! when it ſtrikes a ſecond blow, my poniard ſhall ſtab ſurer.</p>
                   </sp>
                   <stage>
                      <hi>Enter</hi> HASSAN, MULEY, <hi>and</hi> ALARIC, <hi>with Torches.</hi>
@@ -3175,7 +3176,7 @@
                   </sp>
                </div>
                <div n="3" type="scene">
-                  <pb n="61" facs="tcp:034000_0061_0FF9FD67D2504350"/>
+                  <pb n="61" facs="unknown:034000_0061_0FF9FD67D2504350"/>
                   <head>
                      <hi>SCENE III.</hi>—A gloomy ſubterraneous Dungeon, wide and lofty: The upper part of it has in ſeveral places fallen in, and left large chaſms. On one ſide are various paſſages leading to other Caverns: On the other is an Iron Door with Steps leading to it, and a Wicket in the middle. <hi>REGI<g ref="char:EOLhyphen"/>NALD,</hi> pale and emaciated, in coarſe garments, his hair hang<g ref="char:EOLhyphen"/>ing wildly about his face, and a chain bound round his body, lies ſleeping upon a bed of ſtraw. A lamp, a ſmall baſhet, and a pitcher, are placed near him. After a few moments he awakes, and extends his arms.</head>
                   <sp>
@@ -3194,7 +3195,7 @@
                      <p>Perfectly well, and would give my beſt breviary to find myſelf once more on terra-firma. But the outlet cannot be far off; let us proceed.</p>
                   </sp>
                   <sp>
-                     <pb n="62" facs="tcp:034000_0062_0FF9FCE272936728"/>
+                     <pb n="62" facs="unknown:034000_0062_0FF9FCE272936728"/>
                      <speaker>Ang.</speaker>
                      <p>Look down upon us, bleſſed angels; aid us, pro<g ref="char:EOLhyphen"/>tect us.</p>
                   </sp>
@@ -3241,7 +3242,7 @@
                      <p>Nay, if 'tis ſo, I ſha'n't be the firſt man who of two ways has preferred the wrong.</p>
                   </sp>
                   <sp>
-                     <pb n="63" facs="tcp:034000_0063_0FF9FD6AD7E22A90"/>
+                     <pb n="63" facs="unknown:034000_0063_0FF9FD6AD7E22A90"/>
                      <speaker>Ang.</speaker>
                      <p>Provoking! And did I not tell you to chooſe the right-hand paſſage?</p>
                   </sp>
@@ -3295,7 +3296,7 @@
                      <p>He is gone!—Emaciated and ſtiff from long diſ<g ref="char:EOLhyphen"/>uſe, ſcarce can I draw my limbs along; and I ſtrive in vain to overtake the fugitive.</p>
                   </sp>
                   <sp>
-                     <pb n="64" facs="tcp:034000_0064_0FF9FCEC4F2BCA00"/>
+                     <pb n="64" facs="unknown:034000_0064_0FF9FCEC4F2BCA00"/>
                      <speaker>Ang.</speaker>
                      <stage>[Recovering herſelf.]</stage>
                      <p>Still it is there, that fear<g ref="char:EOLhyphen"/>ful viſion.</p>
@@ -3345,7 +3346,7 @@
                      <stage>[falling on his boſom.]</stage>
                   </sp>
                   <sp>
-                     <pb n="65" facs="tcp:034000_0065_0FF9FD7256EA2660"/>
+                     <pb n="65" facs="unknown:034000_0065_0FF9FD7256EA2660"/>
                      <speaker>Reg.</speaker>
                      <p>Said you? Meant you?—My daughter—my in<g ref="char:EOLhyphen"/>fant, whom I left—Oh! yes, it muſt be true! My heart, which ſprings towards you, acknowledges my child!—</p>
                      <stage>[Em<g ref="char:EOLhyphen"/>bracing her.]</stage>
@@ -3406,7 +3407,7 @@
                      <p>Deareſt, I entreat, I conjure you, fly! Fear not for me!—Hark! they are at the door! Speed to the cavern! Speak not, move not; if poſſible, breathe not!</p>
                   </sp>
                   <sp>
-                     <pb n="66" facs="tcp:034000_0066_0FF9FCF848902768"/>
+                     <pb n="66" facs="unknown:034000_0066_0FF9FCF848902768"/>
                      <speaker>Ang.</speaker>
                      <p>Father! Oh! Father!</p>
                   </sp>
@@ -3442,7 +3443,7 @@
                      <p>Was I one when my weapon ſtruck the fierce Scot to the ground, whoſe ſword already glit<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>red above your head? Was I one, when, as embaraſſed by your ar<g ref="char:EOLhyphen"/>mour, you ſank beneath the Severn's waves, I ſprang into the flood, I ſeized, I ſaved you? Twice have I preſerved your life! Oh, let it not be for my own deſtruction! See, my brother, the once proud Reginald lies at your feet, for his pride has been humbled by ſuffering! Hear him adjure you by her aſhes, within whoſe boſom we both
-<pb n="67" facs="tcp:034000_0067_0FF9CD701893FE00"/>have lain, not to ſtain your hands with the blood of your brother!</p>
+<pb n="67" facs="unknown:034000_0067_0FF9CD701893FE00"/>have lain, not to ſtain your hands with the blood of your brother!</p>
                   </sp>
                   <sp>
                      <speaker>Oſm.</speaker>
@@ -3519,7 +3520,7 @@
                      <p>You ſhall live, Father! I will ſacrifice all to preſerve you! Here is my hand, Oſmond! 'Tis your's; but ſpare my father!</p>
                   </sp>
                   <sp>
-                     <pb n="68" facs="tcp:034000_0068_0FF9FD05C5170A20"/>
+                     <pb n="68" facs="unknown:034000_0068_0FF9FD05C5170A20"/>
                      <speaker>Oſm.</speaker>
                      <stage>[Tranſported.]</stage>
                      <p>Lovely Angela!</p>
@@ -3601,7 +3602,7 @@
                            </gap>ld, <hi>who is diſarmed, and beaten upon his knees; when at the moment that</hi> Oſmond <hi>lifts his arm to ſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
                                  <desc>•</desc>
                               </gap>h him,</hi> Evelina's <hi>Cheſt throws her<g ref="char:EOLhyphen"/>ſelf
-<pb n="69" facs="tcp:034000_0069_0FF9FD76D6E86CF8"/>between them:</hi> Oſmond <hi>ſtarts back, and drops his ſword.</hi>]</stage> Horror!—What form is this?</p>
+<pb n="69" facs="unknown:034000_0069_0FF9FD76D6E86CF8"/>between them:</hi> Oſmond <hi>ſtarts back, and drops his ſword.</hi>]</stage> Horror!—What form is this?</p>
                   </sp>
                   <sp>
                      <speaker>Ang.</speaker>
@@ -3669,7 +3670,7 @@
                   <sp>
                      <speaker>Reg.</speaker>
                      <p>Ah! youth, has he had none? Oh! in his ſtately chambers, far greater muſt have been his pangs than mine in this gloomy dungeon; for what gave <hi>me</hi> comfort was <hi>his</hi>
-                        <pb n="70" facs="tcp:034000_0070_0FF9FD0C04CD2BF8"/>terror, what gave <hi>me</hi> hope was <hi>his</hi> deſpair. I knew that I was guiltleſs; knew that, though I ſuffered in this world my lot would be happy in that to come!</p>
+                        <pb n="70" facs="unknown:034000_0070_0FF9FD0C04CD2BF8"/>terror, what gave <hi>me</hi> hope was <hi>his</hi> deſpair. I knew that I was guiltleſs; knew that, though I ſuffered in this world my lot would be happy in that to come!</p>
                      <lg>
                         <l>And, Oh, thou wretch! whom hopeleſs woes oppreſs,</l>
                         <l>Whoſe day no joys, whoſe night no ſlumbers bleſs,</l>
